@@ -1,5 +1,6 @@
 body {
   font-family: 'Kanit', sans-serif;
+  opacity: 0;
 }
 
 body::-webkit-scrollbar {
@@ -48,6 +49,7 @@ nav {
   top: 0;
   z-index: 300;
   box-shadow: 0px 2px 10px 0px rgba(0,0,0,0.5);
+  opacity: 0;
 }
 
 .menu-icon {
